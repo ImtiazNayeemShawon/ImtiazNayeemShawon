@@ -1,12 +1,12 @@
 <h1 align="left">Hi 🙋‍♂️, I'm Imtiaz Nayeem Shawon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<img src="https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/294743940_108876995240747_9056042243251908873_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG8EvHYpvpc3R5GT65WsGiIntDQDC4aqFee0NAMLhqoV9ceB7u5wzvXuIGTNg3GuDbyPoQ7ZAVSpikimoBqqHPG&_nc_ohc=eJzqtk65XxgAX8x1Imc&_nc_ht=scontent.fdac155-1.fna&oh=00_AT8aug65CvumfNqvH-OBBaz5aEEqoK892iugCeV8J853qw&oe=62E617EE" alt="Girl in a jacket" width="100%" height="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaznayeemshawon&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaznayeemshawon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiaznayeemshawon" alt="imtiaznayeemshawon" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/294743940_108876995240747_9056042243251908873_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG8EvHYpvpc3R5GT65WsGiIntDQDC4aqFee0NAMLhqoV9ceB7u5wzvXuIGTNg3GuDbyPoQ7ZAVSpikimoBqqHPG&_nc_ohc=eJzqtk65XxgAX8x1Imc&_nc_ht=scontent.fdac155-1.fna&oh=00_AT8aug65CvumfNqvH-OBBaz5aEEqoK892iugCeV8J853qw&oe=62E617EE" alt="Girl in a jacket" width="100%" height="400">
+
 - 🌱 I’m currently learning **Python, Javascript, Django**
 
 - 📝 I regularly write articles on [https://cyberteensblog.com/author/shawon/](https://cyberteensblog.com/author/shawon/)
