@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imtiaz Nayeem Shawon</h1>
-<img align="center"  src="https://miro.medium.com/max/720/0*XHTOsy-N9vhqD05V.webp"></img>
+<img align="center"  src="https://res.cloudinary.com/de4rvmslk/image/upload/w_1600/f_auto,q_auto/JavaScript_For_Loop_Statements.png"></img>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaznayeemshawon&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaznayeemshawon" /> </p>
