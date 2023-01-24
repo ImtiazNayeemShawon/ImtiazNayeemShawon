@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/imtiaz_nayim" target="blank"><img src="https://img.shields.io/twitter/follow/imtiaz_nayim?logo=twitter&style=for-the-badge" alt="imtiaz_nayim" /></a> </p>
 
-- 🔭 I’m currently working on **Bangladesh space research society**
+- 🔭 I’m currently looking for the internship/job
 
 - 🌱 I’m currently learning **Javascript**
 
