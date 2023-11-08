@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imtiaz Nayeem Shawon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="center"  src="https://scontent.fcgp32-1.fna.fbcdn.net/v/t39.30808-6/376236429_249744491376102_7239958915342943089_n.png?_nc_cat=109&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeEzEIoF7WDvIeBkQrrIPRJ4aGR2M1GfvvhoZHYzUZ---NWw4hYcGcBkRcMWJ18d-VXOLnsYtDFmpyO7vQexCqoa&_nc_ohc=-CRXhp0umWkAX-xQ7K2&_nc_ht=scontent.fcgp32-1.fna&oh=00_AfDu-JAjHmjDEkul2KP_jlCgn70mP25LnPanhxe8aDGhPA&oe=6512E9EF"></img>
 
 
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/imtiaz_nayim" target="blank"><img src="https://img.shields.io/twitter/follow/imtiaz_nayim?logo=twitter&style=for-the-badge" alt="imtiaz_nayim" /></a> </p>
 
-- 🔭 I’m currently looking for the internship/job
+- 🔭 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at https://imtiaz-nayeem.netlify.app/
 - 📝 I regularly write articles on [https://cyberteensblog.com/author/shawon/](https://cyberteensblog.com/author/shawon/)
