@@ -13,16 +13,16 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at https://imtiaz-nayeem.netlify.app/
+- 👨‍💻 All of my projects are available at https://imtiaznayeem.co/
 - 📝 I regularly write articles on [https://cyberteensblog.com/author/shawon/](https://cyberteensblog.com/author/shawon/)
 
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **imtiaznayim95@gmail.com**
 
-- 📄 Know about my experiences [https://resume.showwcase.com/imtiaznayeemshawon.pdf](https://resume.showwcase.com/imtiaznayeemshawon.pdf)
+- 📄 Know about my experiences https://imtiaznayeem.co/
 
-- ⚡ Fun fact **I think I fall in love with Javascript :")**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
