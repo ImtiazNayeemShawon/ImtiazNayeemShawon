@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiaznayeemshawon" alt="imtiaznayeemshawon" /></a> </p>
 
-- 🔭 I’m currently working on [ZIPBOX](https://zipbox.design/)
+- 🔭 I’m currently looking for Remote position 
 
 - 🌱 I’m currently learning **C++,Python**
 
