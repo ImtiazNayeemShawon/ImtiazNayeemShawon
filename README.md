@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for Remote position 
 
-- 🌱 I’m currently learning **C++,Python**
+- 🌱 I’m currently learning **C++,Swift**
 
 - 👯 I’m looking for **Remote job**
 
