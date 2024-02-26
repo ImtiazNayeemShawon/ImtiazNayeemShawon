@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **C++,Swift**
 
-- 👯 I’m looking for **Remote job**
-
 - 👨‍💻 All of my projects are available at [https://imtiaznayeem.co/](https://imtiaznayeem.co/)
 
 - 💬 Ask me about **JAVASCRIPT,REACT,NEXT,EXPRESS,NODEJS,C++**
