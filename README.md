@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently looking for Projects 
 
-- 🌱 I’m currently learning **C++,Swift**
+- 🌱 I’m currently learning **C++,Problem Solving**
 
 - 👨‍💻 All of my projects are available at [https://imtiaznayeem.co/](https://imtiaznayeem.co/)
 
-- 💬 Ask me about **JAVASCRIPT,REACT,NEXT,EXPRESS,NODEJS,C++**
+- 💬 Ask me about **JAVASCRIPT,REACT,NEXT,EXPRESS,NODEJS,C++,Startup,Agency,Business**
 
 - 📫 How to reach me **imtiaznayim95@gmail.com**
 
