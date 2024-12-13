@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++,Problem Solving**
 
-- 👨‍💻 All of my projects are available at [https://imtiaznayeem.co/](https://imtiaznayeem.co/)
+- 👨‍💻 All of my projects are available at [https://imtiaz.zipboxs.com/](https://imtiaz.zipboxs.com/)
 
 - 💬 Ask me about **JAVASCRIPT,REACT,NEXT,EXPRESS,NODEJS,C++,Startup,Agency,Business**
 
