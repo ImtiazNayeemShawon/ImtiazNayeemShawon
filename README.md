@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imtiaz Nayeem Shawon</h1>
-<h3 align="center">A passionate Full stack Javascript developer</h3>
+<h4 align="center">A Self-taught Full stack developer with 4 years of experience in product development and client services.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaznayeemshawon&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaznayeemshawon" /> </p>
 
