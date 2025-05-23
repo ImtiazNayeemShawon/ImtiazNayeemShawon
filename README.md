@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Imtiaz Nayeem Shawon</h1>
-<h3 align="center">A passionate Full stack web developer</h3>
+<h3 align="center">A passionate Full stack Javascript developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaznayeemshawon&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaznayeemshawon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiaznayeemshawon" alt="imtiaznayeemshawon" /></a> </p>
 
-- 🔭 I’m currently looking for Projects 
+- 🔭 I’m currently looking for Remote Opportunity 
 
-- 🌱 I’m currently learning **C++,Problem Solving**
+- 🌱 I’m currently learning **DSA, Problem Solving**
 
-- 👨‍💻 All of my projects are available at [https://imtiaz.zipboxs.com/](https://imtiaz.zipboxs.com/)
+- 👨‍💻 All of my projects are available at [https://imtiaz.zippix.co/](https://imtiaz.zippix.co/)
 
 - 💬 Ask me about **JAVASCRIPT,REACT,NEXT,EXPRESS,NODEJS,C++,Startup,Agency,Business**
 
 - 📫 How to reach me **imtiaznayim95@gmail.com**
 
-- Fun fact **I can easily learn any language and framework if I need to use this on projects :")**
+- Fun fact **I can easily learn any JS framework/Library if I need to use this on projects:")**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
