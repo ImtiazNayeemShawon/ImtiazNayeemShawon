@@ -17,6 +17,7 @@
 
 - Fun fact **I can easily learn any JS framework/Library if I need to use this on projects:")**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/imtiaz_nayim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/imtiaz_nayim" height="30" width="40" /></a>
@@ -35,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiaznayeemshawon&show_icons=true&locale=en" alt="imtiaznayeemshawon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtiaznayeemshawon&" alt="imtiaznayeemshawon" /></p>
+<p><img align="left" width="50%" height="200px" alt="Top langs" src="https://leetcard.jacoblin.cool/imtiaz95?theme=dark"/></p>
+
