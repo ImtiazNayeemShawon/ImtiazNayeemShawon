@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiaznayeemshawon" alt="imtiaznayeemshawon" /></a> </p>
 
-- 🔭 I’m currently looking for Remote Opportunity 
+- 🔭 I’m currently looking for startups and companies that want to build their next project with my company www.zippix.co
 
 - 🌱 I’m currently learning **DSA, Problem Solving**
 
