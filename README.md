@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/imtiaz_nayim" target="blank"><img src="https://img.shields.io/twitter/follow/imtiaz_nayim?logo=twitter&style=for-the-badge" alt="imtiaz_nayim" /></a> </p>
 
-- 🔭 I’m currently working on **Hyperscaler**
+- 🔭 I’m currently working on **n/a**
 
 - 🌱 I’m currently learning **Scikit-learn,OpenCV,MLOPS,AI**
 
-- 👨‍💻 All of my projects are available at [imtiaz.zippix.co](imtiaz.zippix.co)
+- 👨‍💻 All of my projects are available at imtiazz.me
 
 - 📝 I regularly write articles on [https://medium.com/@imtiaznayim95](https://medium.com/@imtiaznayim95)
 
